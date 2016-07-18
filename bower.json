@@ -1,0 +1,17 @@
+{
+  "name": "HoverEffectIdeas-master",
+  "homepage": "https://github.com/jreyes23/hoverEffects",
+  "authors": [
+    "judiel <jreyes@enobasistemas.com>"
+  ],
+  "description": "",
+  "main": ["set1.css", "set2.css"],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
